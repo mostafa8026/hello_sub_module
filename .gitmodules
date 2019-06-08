@@ -1,0 +1,3 @@
+[submodule "third-party/inside1"]
+	path = third-party/inside1
+	url = https://github.com/mostafa8026/hello_sub_module_inside1.git
