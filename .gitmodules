@@ -1,3 +1,6 @@
 [submodule "third-party/inside1"]
 	path = third-party/inside1
 	url = https://github.com/mostafa8026/hello_sub_module_inside1.git
+[submodule "third-party/awesome-git-alias"]
+	path = third-party/awesome-git-alias
+	url = ../awesome-git-alias.git
